@@ -87,15 +87,15 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/tushar-singla-aab67b387/" target="_blank">
+  <a href="www.linkedin.com/in/priyanshu-dutta-980k" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Tushar8466" target="_blank">
+  <a href="https://github.com/Priyanshu-dutta" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="tusharsingla22222@gmail.com" target="_blank">
+  <a href="priyanshudutta77@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" height="40"/>
   </a>
   &nbsp;&nbsp;
