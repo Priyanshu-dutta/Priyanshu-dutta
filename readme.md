@@ -62,7 +62,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Tushar8466&theme=radical" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=Priyanshu-Dutta&theme=radical" height="180"/>
 </p>
 
 <p align="center">
