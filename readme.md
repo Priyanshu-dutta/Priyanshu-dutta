@@ -87,7 +87,7 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="www.linkedin.com/in/priyanshu-dutta-980k" target="_blank">
+  <a href="https://www.linkedin.com/in/priyanshu-dutta-980k/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
   </a>
   &nbsp;&nbsp;
